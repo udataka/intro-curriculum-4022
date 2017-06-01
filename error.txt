@@ -1,0 +1,177 @@
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+Unhandled rejection TypeError: base64 is not a function
+    at Function.from (native)
+    at Function.from (native)
+    at bufFrom (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:337:31)
+    at Hash.hexDigest (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/ssri/index.js:34:27)
+    at contentPath (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/path.js:20:31)
+    at moveToDestination (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:131:23)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/cacache/lib/content/write.js:39:7
+    at tryCatcher (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:512:31)
+    at Promise._settlePromise (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:693:18)
+    at Promise._fulfill (/home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/promise.js:638:18)
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/bluebird/js/release/nodeback.js:42:21
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:99:16
+    at /home/vagrant/.nodebrew/node/v4.2.3/lib/node_modules/npm/node_modules/graceful-fs/graceful-fs.js:43:10
+npm ERR! cb() never called!
+
+npm ERR! This is an error with npm itself. Please report this error at:
+npm ERR!     <https://github.com/npm/npm/issues>
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/vagrant/.npm/_logs/2017-06-01T09_57_57_544Z-debug.log
